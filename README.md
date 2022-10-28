@@ -1,5 +1,5 @@
 
-# Project Title
+# Zuri Training
 
 I am currently undergoing a training with Zuri on Front End Web Dev. 
 Learning how to use Git and pushing my projects on GitHub also learning how to use Html CSS and Java Script.
